@@ -1,2 +1,2 @@
-# belajarPython
-Cuman Rangkuman Apa Yang Aku Pelajari (Python)
+# BelajarPython
+Cuman Repo, Hasil Nyoba", Apa Yang Aku Pelajari (Python)
